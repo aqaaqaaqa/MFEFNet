@@ -2,9 +2,9 @@
 
 It is the official implementation of the paper "MFEFNet: Multiscale feature extraction fusion network for diabetic retinopathy lesion segmentation".
 
-![overview](README.assets/overview.JPG)
+![overview](/README.assets/overview.JPG)
 
-##Bulid  environment
+## Bulid  environment
 
 You can use `environment.yml` to help you build the running environment for the code.
 
