@@ -16,3 +16,5 @@ conda env create -f environment.yml -n MFEFNetenv
 
 You can adjust the hyperparameters of the model in the file and then just run `mian.py`.
 
+If you have any problem, please contact us or write your questions in the issues part.
+
