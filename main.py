@@ -48,7 +48,7 @@ Dataset_name = ["DDREX", 'DDRHE', 'DDRMA', 'DDRSE', 'idridEX', 'idridHE', 'idrid
 # V2: weighted boundary_dice_bce_loss weight = 0.5
 # V3: weighted boundary_dice_bce_loss weight = 0.25
 # V4: weighted boundary_dice_bce_loss weight = 2
-NAME = 'CE_Net_NEW11'
+NAME = 'MFEFNet'
 print(NAME)
 
 def train_CE_Net_Vessel():
